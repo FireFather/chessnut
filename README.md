@@ -1,2 +1,3 @@
 # chessnut
-uci chess engine
+awesome uci chess engine
+forked from https://github.com/AriaKafie/chessnut
