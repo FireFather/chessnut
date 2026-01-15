@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\movegen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:movegen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:bitboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5D1ED1-B84A-7365-60D3-CAAE7FE2EA7D}|chessnut.vcxproj|solutionrelative:bitboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "movegen.h",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\movegen.h",
+              "RelativeDocumentMoniker": "movegen.h",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\movegen.h",
+              "RelativeToolTip": "movegen.h",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:20:37.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "types.h",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\types.h",
+              "RelativeDocumentMoniker": "types.h",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\types.h",
+              "RelativeToolTip": "types.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:16:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "position.cpp",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.cpp",
+              "RelativeDocumentMoniker": "position.cpp",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.cpp",
+              "RelativeToolTip": "position.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAARwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T18:15:38.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hash.h",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\hash.h",
+              "RelativeDocumentMoniker": "hash.h",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\hash.h",
+              "RelativeToolTip": "hash.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:14:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "position.h",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.h",
+              "RelativeDocumentMoniker": "position.h",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\position.h",
+              "RelativeToolTip": "position.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAGwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:13:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bitboard.cpp",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.cpp",
+              "RelativeDocumentMoniker": "bitboard.cpp",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.cpp",
+              "RelativeToolTip": "bitboard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T18:12:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bitboard.h",
+              "DocumentMoniker": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.h",
+              "RelativeDocumentMoniker": "bitboard.h",
+              "ToolTip": "C:\\DEV\\CHESSNUT (2350-73)\\chessnut\\bitboard.h",
+              "RelativeToolTip": "bitboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:09:47.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
