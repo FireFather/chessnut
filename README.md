@@ -12,9 +12,9 @@ awesome uci chess engine
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
-Chessnut chess engine (https://github.com/AriaKafie/chessnut)
+This is the modernized Chessnut chess engine from (https://github.com/AriaKafie/chessnut)
 
-- modernized C++
+- updated: modernized C++
 - Minimal: only the core chess engine remains
 - Clean: warning-free at strict Level 4 compiler levels
 - Modern: idiomatic, tool-friendly C++
@@ -44,6 +44,8 @@ perft 7
 nodes 3195901860
 time 5856 ms
 ```
+Wow!!
+
 ## ⚙️To Build
 - Visual Studio -> use the included project files: chessnut.sln or chessnut.vcxproj
 - MSYS2 mingw64 -> use the included shell script: make_it.sh
