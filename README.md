@@ -14,7 +14,7 @@ awesome uci chess engine
 
 Chessnut chess engine (https://github.com/AriaKafie/chessnut)
 
-- Ported from C to C++ and modernized
+- modernized C++
 - Minimal: only the core chess engine remains
 - Clean: warning-free at strict Level 4 compiler levels
 - Modern: idiomatic, tool-friendly C++
