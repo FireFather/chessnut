@@ -65,4 +65,4 @@ NPS: 749156554
 [release-link]: https://github.com/FireFather/chessnut/releases/latest
 [commits-badge]: https://img.shields.io/github/commits-since/FireFather/chessnut/latest?style=for-the-badge
 [commits-link]: https://github.com/FireFather/chessnut/commits/main
-[downloads-badge]: https:/
+[downloads-badge]: https://img.shields.io/github/downloads/FireFather/chessnut/total?style=for-the-badge&color=blue
