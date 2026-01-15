@@ -1,6 +1,6 @@
 # chessnut
 awesome uci chess engine
-forked from https://github.com/AriaKafie/chessnut
+
 [![Release][release-badge]][release-link]
 [![Commits][commits-badge]][commits-link]
 
@@ -12,7 +12,7 @@ forked from https://github.com/AriaKafie/chessnut
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
-Xiphos chess engine (https://github.com/milostatarevic/xiphos)
+Chessnut chess engine (https://github.com/AriaKafie/chessnut)
 
 - Ported from C to C++ and modernized
 - Minimal: only the core chess engine remains
