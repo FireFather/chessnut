@@ -12,7 +12,7 @@ awesome uci chess engine
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
-This is the modernized Chessnut chess engine from (https://github.com/AriaKafie/chessnut)
+This is the modernized Chessnut chess engine by AriaKafie: (https://github.com/AriaKafie/chessnut)
 
 - updated: modernized C++
 - Minimal: only the core chess engine remains
