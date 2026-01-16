@@ -18,7 +18,8 @@ This is the modernized Chessnut chess engine by AriaKafie: (https://github.com/A
 - Minimal: only the core chess engine remains
 - Clean: warning-free at strict Level 4 compiler levels
 - Modern: idiomatic, tool-friendly C++
-
+- The # of Clang C++ code warnings and issues have been reduced from 855 to 73
+- For details, a full list of resolved warnings before and after (chessnut_warnings.xml & chessnut_1.0_warnings.xml respectively) can be found in the /docs subfolder
 ```
 perft 7
 1 h2h3 106678423
